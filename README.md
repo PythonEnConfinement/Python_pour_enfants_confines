@@ -1,4 +1,4 @@
-# Python_pour_enfants_confines
+# Python pour nos enfants confinsé
 Une micro page pour initier les enfants à la programmation en Python alors que le confinement dû à la pandémie de Covid-19 laissent du temps à nos enfants de s'initier à des tâches nouvelles en dehors du programme obligatoire.
 
 Plutôt que de suivre une initiation systématique, il est question ici d'adapter l'apprentissage en fonction des devoirs en mathématiques reçus par email par les enseignants. Les notions seront introduites en fonction du besoin, à la mode 'crash course'. 
