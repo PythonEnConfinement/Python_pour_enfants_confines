@@ -11,4 +11,5 @@ Les premiers notebooks sont en relation avec le cursus Harmos 8P de l'établisse
 Néanmoins, repo étant public, tout le monde à l'opportuntié d'y amener des ressources supplémenataires.
 
 Définissons donc une régle simple pour nommer les notebooks: Canton_Ville_Etablissement_Annee
-exemple: Vaud_Nyon_Cossy_8P
+
+exemple: Vaud_Nyon_Cossy_8P.ipynb
