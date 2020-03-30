@@ -6,3 +6,9 @@ Plutôt que de suivre une initiation systématique, il est question ici d'adapte
 Le seul objectif est se laisser percevoir la programmation comme une activité ludique en réponse à un besoin du monde réel, à réaliser dans une certaine urgence avec des moyens modestes, néanmoins très performants. 
 
 Il s'agit aussi d'une opportunité fantastique pour les mamans et papas développeurs ou data scientists de partager leur savoir en famille en cette période très difficile et certainement unique.
+
+Les premiers notebooks sont en relation avec le cursus Harmos 8P de l'établissement du Cossy à Nyon (Suisse).
+Néanmoins, repo étant public, tout le monde à l'opportuntié d'y amener des ressources supplémenataires.
+
+Définissons donc une régle simple pour nommer les notebooks: Canton_Ville_Etablissement_Annee
+exemple: Vaud_Nyon_Cossy_8P
